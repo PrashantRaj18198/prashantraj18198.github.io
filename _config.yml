@@ -1,1 +1,8 @@
-theme: jekyll-theme-merlot
+remote_theme: andrewhwanpark/dark-poole
+
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - LICENSE.md
+  - README.md
